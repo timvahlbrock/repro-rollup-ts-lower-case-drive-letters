@@ -2,3 +2,4 @@
 .tsbuildinfo
 out
 node_modules
+tsconfig.tsbuildinfo
