@@ -1,9 +1,5 @@
 const typescript = require("@rollup/plugin-typescript");
 
-/**
- *
- * @param {import("rollup").} config
- */
 export default {
     input: "src/main.ts",
     output: {
