@@ -1,0 +1,4 @@
+.rollup.cache
+.tsbuildinfo
+out
+node_modules
